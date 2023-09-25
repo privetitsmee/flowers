@@ -1,0 +1,73 @@
+.card{
+    margin-top: 10px;
+
+    background-color: white;
+
+    border-radius: 36px;
+}
+
+.title{
+    padding-left: 60px;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 40%;
+}
+
+.body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.whatColor{
+    display: flex;
+    align-items: center;
+
+    gap: 10px;
+}
+
+.count{
+    display: flex;
+    align-items: center;
+}
+
+.price{
+    color: #4DC130;
+}
+
+.square{
+    display: inline-block; 
+    position: relative;
+
+    width: 37px;
+    height: 37px;
+
+    background-color: #D9D9D9;
+}
+
+button{
+    border: none;
+    
+
+    background: none;
+
+    cursor: pointer;
+
+    height: 50px;
+}
+
+.img{
+    height: 38px;
+    padding-right: 20px;
+
+    cursor: pointer;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0 auto;
+}

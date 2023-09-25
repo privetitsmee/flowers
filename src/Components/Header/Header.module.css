@@ -1,0 +1,23 @@
+.header{
+    background-color: white;
+
+    border-radius: 36px 36px 2px 2px;
+}
+
+.body{
+    display: flex;
+    align-items: center;
+
+    gap: 40px;
+}
+
+h1{
+    font-size: 36px;
+
+    padding-left: 55px;
+}
+
+img{
+    max-width: 81px;
+    max-height: 22px;
+}

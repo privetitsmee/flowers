@@ -1,0 +1,20 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+
+    border-radius: 36px;
+
+    margin-top: auto;
+    margin-bottom: 30px;
+}
+
+.all{
+    padding-left: 60px;
+}
+
+.totalPrice{
+    padding-right: 120px;
+
+    color: #4DC130;
+}
